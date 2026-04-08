@@ -119,9 +119,6 @@ Sends a user query and receives a matching FAQ answer.
 6. Set the start command to `gunicorn app:app`
 7. Deploy!
 
-## Demo
-
-Try the live chatbot at: [FAQ Chatbot on Render](https://your-render-url.onrender.com)
 
 ## Technologies Used
 
@@ -151,6 +148,12 @@ This project is open source and available under the MIT License.
 ## Author
 
 Created by [Aryan Bhalsing](https://github.com/iamaryanbhalsing)
+
+**Connect with me:**
+
+- **LinkedIn:** [linkedin.com/in/iamaryanbhalsing](https://linkedin.com/in/iamaryanbhalsing)
+- **Instagram:** [@iamaryanbhalsing](https://instagram.com/iamaryanbhalsing)
+- **Email:** iamaryanbhalsing@gmail.com
 
 ## Support
 
