@@ -153,7 +153,7 @@ Created by [Aryan Bhalsing](https://github.com/iamaryanbhalsing)
 
 - **LinkedIn:** [linkedin.com/in/iamaryanbhalsing](https://linkedin.com/in/iamaryanbhalsing)
 - **Instagram:** [@iamaryanbhalsing](https://instagram.com/iamaryanbhalsing)
-- **Email:** iamaryanbhalsing@gmail.com
+- **Email:** aryanbhalsing7090@gmail.com
 
 ## Support
 
